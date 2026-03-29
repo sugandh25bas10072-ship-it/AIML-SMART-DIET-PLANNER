@@ -1,0 +1,9 @@
+() Project Report: Smart Diet Planner
+
+This project focuses on solving a very common real-life problem faced by students and young adults,confusion regarding diet and fitness goals. Many people either undereat or overeat because they are unsure whether they should focus on losing fat or gaining muscle.
+
+The Smart Diet Planner is a simple web-based tool developed using HTML, CSS, and basic JavaScript. It takes user inputs such as weight, height, and body fat percentage, and based on these values, it suggests whether the user should follow a cutting, bulking, or recomposition approach.
+
+The system also provides an estimated daily calorie intake along with a simple and practical diet plan that is easy to follow in an Indian context.
+
+The main goal of this project was to create something useful, easy to understand, and realistic rather than overly technical. The project demonstrates how basic logic and programming can be applied to solve everyday problems in a meaningful way.
