@@ -65,7 +65,6 @@ No tool will work if you don’t.
 This just points you in the right direction.
 
 
-<img src="<img width="877" height="724" alt="Screenshot 2026-03-29 at 9 18 28 PM" src="https://github.com/user-attachments/assets/664c5249-7d0e-466f-8cfb-7771b3e694e6" />
-" width="600">
+
 
 
