@@ -23,7 +23,7 @@ Based on this, the website:
 - Suggests a rough calorie intake
 - Gives a simple and realistic Indian diet plan
 
----
+
 
 () Why I made this
 
@@ -31,7 +31,7 @@ As a student, I noticed that many people around me (including myself at one poin
 
 So I built something simple that anyone can use without overthinking.
 
----
+
 
 () Features
 
@@ -40,7 +40,7 @@ So I built something simple that anyone can use without overthinking.
 - Basic calorie estimation
 - Practical diet suggestions (not fancy unrealistic stuff)
 
----
+
 
 () How to use
 
@@ -49,7 +49,7 @@ So I built something simple that anyone can use without overthinking.
 3. Click "Get My Plan"
 4. Follow the suggestions consistently
 
----
+
 
 () Important Note
 
@@ -57,7 +57,7 @@ This is not a medical or professional diet plan.
 It is just a basic guide to help you get started.
 
 
----
+
 
 () Final Thought
 
