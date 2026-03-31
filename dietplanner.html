@@ -47,9 +47,9 @@
 <body>
 
 <div class="container">
-  <h1>🍽️ Smart Diet Planner</h1>
+  <h1> Smart Diet Planner</h1>
 
-  <p>Be honest. This works only if you are 😄</p>
+  <p>Be honest. This works only if you are </p>
 
   <input type="number" id="weight" placeholder="Enter your weight (kg)">
   <input type="number" id="height" placeholder="Enter your height (cm)">
@@ -79,13 +79,13 @@ function generatePlan() {
 
   // Decision logic
   if (bf > 20) {
-    plan = "CUT 🔥";
+    plan = "CUT ";
     calories = weight * 25;
   } else if (bf < 12) {
-    plan = "LEAN BULK 💪";
+    plan = "LEAN BULK ";
     calories = weight * 35;
   } else {
-    plan = "RECOMP ⚖️";
+    plan = "RECOMP ";
     calories = weight * 30;
   }
 
@@ -95,12 +95,12 @@ function generatePlan() {
   <b>Estimated Calories:</b> ${Math.round(calories)} kcal/day<br><br>
 
   <b>Simple Diet Plan:</b><br>
-  🍳 Breakfast: Eggs + Toast / Oats<br>
-  🍛 Lunch: Rice + Dal + Chicken/Paneer<br>
-  🥜 Snacks: Peanut butter / Fruits<br>
-  🍗 Dinner: Roti + Sabzi + Protein source<br><br>
+   Breakfast: Eggs + Toast / Oats<br>
+   Lunch: Rice + Dal + Chicken/Paneer<br>
+   Snacks: Peanut butter / Fruits<br>
+   Dinner: Roti + Sabzi + Protein source<br><br>
 
-  <b>Tip:</b> Stay consistent. No diet works if you quit after 3 days 😄
+  <b>Tip:</b> Stay consistent. No diet works if you quit after 3 days 
   `;
 
   result.innerHTML = diet;
