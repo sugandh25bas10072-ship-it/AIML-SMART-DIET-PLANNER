@@ -1,9 +1,9 @@
-() AIML-SMART-DIET-PLANNER
+AIML-SMART-DIET-PLANNER
 The Smart Diet Planner is a simple web-based application designed to help individuals make better decisions about their diet and fitness goals. Many students and young adults often feel confused about whether they should lose weight, gain muscle, or simply maintain their current physique.
 
-() Smart Diet Planner 
+Smart Diet Planner 
 
--- What is this?
+What is this?
 
 This is a simple web-based diet planner that helps a person figure out whether they should cut, bulk, or maintain their body based on basic inputs like weight, height, and body fat percentage.
 
@@ -11,7 +11,7 @@ The idea came from a very common problem — most people don’t know what to do
 
 This tool gives a starting point.
 
--- How it works
+ How it works
 
 You just enter:
 - Your weight (kg)
@@ -25,7 +25,7 @@ Based on this, the website:
 
 
 
-() Why I made this
+Why I made this
 
 As a student, I noticed that many people around me (including myself at one point) were confused about fitness. Everyone talks about gym and diet, but very few actually understand what they should do.
 
@@ -33,7 +33,7 @@ So I built something simple that anyone can use without overthinking.
 
 
 
-() Features
+Features
 
 - Simple and easy-to-use interface
 - Instant decision (Cut / Bulk / Recomp)
@@ -41,8 +41,7 @@ So I built something simple that anyone can use without overthinking.
 - Practical diet suggestions (not fancy unrealistic stuff)
 
 
-
-() How to use
+How to use
 
 1. Open the `index.html` file in any browser
 2. Enter your details honestly
@@ -50,20 +49,16 @@ So I built something simple that anyone can use without overthinking.
 4. Follow the suggestions consistently
 
 
-
-() Important Note
+Important Note
 
 This is not a medical or professional diet plan.  
 It is just a basic guide to help you get started.
 
 
+Final Thought
 
-
-() Final Thought
-
-No tool will work if you don’t.  
-This just points you in the right direction.
-
+The idea came from a problem I’ve personally seen around me people being confused about diet and fitness—and it felt good to turn that into a simple solution.
+While developing the Smart Diet Planner, I realized that even basic knowledge of programming can be used to solve everyday problems. At the same time, it wasn’t completely straightforward. Deciding the logic, keeping the interface simple, and making the output feel practical required some thinking and trial and error.
 
 
 
